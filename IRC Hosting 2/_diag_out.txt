@@ -1,0 +1,13 @@
+Root tag: {http://xml.house.gov/schemas/uslm/1.0}uscDoc
+Total elements: 584669
+Section elements: 10929
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id=''
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id=''
+  tag='{http://xml.house.gov/schemas/uslm/1.0}section', id='/us/usc/t26/s1'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/a'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/b'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/c'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/d'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/e'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/f'
+  tag='{http://xml.house.gov/schemas/uslm/1.0}subsection', id='/us/usc/t26/s1/g'

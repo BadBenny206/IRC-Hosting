@@ -1,0 +1,43 @@
+﻿Total sections: 2126
+Old regex fails: 230
+  snum='[\u202f4'  id='/us/usc/t26/s4'
+  snum='[\u202f28'  id='/us/usc/t26/s28'
+  snum='[\u202f29'  id='/us/usc/t26/s29'
+  snum='[\u202f30'  id='/us/usc/t26/s30'
+  snum='[\u202f30A'  id='/us/usc/t26/s30A'
+  snum='[\u202f36A'  id='/us/usc/t26/s36A'
+  snum='[\u202f36C'  id='/us/usc/t26/s36C'
+  snum='[\u202f44A'  id='/us/usc/t26/s44A'
+  snum='[\u202f44B'  id='/us/usc/t26/s44B'
+  snum='[\u202f44C'  id='/us/usc/t26/s44C'
+
+OLD sort - first 10:
+  [ΓÇ»1000
+  [ΓÇ»1002
+  [ΓÇ»1018
+  [ΓÇ»1020
+  [ΓÇ»1022
+  [ΓÇ»1024
+  [ΓÇ»1034
+  [ΓÇ»1039
+  [ΓÇ»103A
+  [ΓÇ»1044
+
+NEW sort - first 10:
+  1
+  2
+  3
+  [ΓÇ»4
+  5
+  11
+  12
+  15
+  21
+  22
+
+First 5 hierarchy (new sort):
+  ┬º1 -> subchapter=Subchapter A ΓÇö Determination of Tax Liability
+  ┬º2 -> subchapter=Subchapter A ΓÇö Determination of Tax Liability
+  ┬º3 -> subchapter=Subchapter A ΓÇö Determination of Tax Liability
+  ┬º[ΓÇ»4 -> subchapter=Subchapter A ΓÇö Determination of Tax Liability
+  ┬º5 -> subchapter=Subchapter A ΓÇö Determination of Tax Liability

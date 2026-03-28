@@ -1,0 +1,22 @@
+﻿=== P[9] remainder test ===
+NO MATCH
+
+=== P[18] remainder test ===
+NO MATCH
+
+=== Character analysis ===
+∙ = U+00F9 = 249
+ù = U+2014 = 8212
+- = U+002D = 45
+. = U+002E = 46
+
+Does [ù-] match ∙? False
+Does [ù-] match .? False
+Does [ù-] match ù? True
+Does [ù-] match -? True
+Found 697 regulation sections in CFR-2025-title26-vol20.xml
+Loaded 1 distinct Treasury Regulation sections from 1 XML files
+
+=== Table count in 'º 301.7701-2' ===
+        TABLE found under: sectionId=''
+Total tables: 1

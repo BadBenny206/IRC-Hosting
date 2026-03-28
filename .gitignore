@@ -1,0 +1,7 @@
+# Ignore everything at the repo root
+/*
+
+# Except the two hosted folders and this file
+!/.gitignore
+!/IRC Hosting 2/
+!/IRC Hosting 3/
